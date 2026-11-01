@@ -1,0 +1,3 @@
+# Pin exact versions for reproducible local drafts.
+ccxt==4.5.91
+python-dotenv==1.2.4
